@@ -1,8 +1,8 @@
-To run the WordNet Poincare Embeddings notebook, please do the following:
+To run the WordNet Poincare Embeddings notebook, make sure you're using Python 3.7, then please do the following:
 
 Clone this repository into a directory of your choosing
 
-`git clone `
+`git clone https://github.com/cshewmake2/wordnet_poincare.git`
 
 
 Change into the project directory
